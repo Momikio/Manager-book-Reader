@@ -72,7 +72,8 @@ public class ControllerUltility {
         }
         return list;
     }
-
+// toi da o day
+    
     public ArrayList<BookReaderManagement> searchByReaderName(
             ArrayList<BookReaderManagement> list, String key) {
         ArrayList<BookReaderManagement> result = new ArrayList<>();
